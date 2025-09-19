@@ -38,7 +38,19 @@ def main():
             t=e.get("published_parsed") or e.get("updated_parsed")
             ts=int(time.mktime(t)) if t else int(time.time())
             iso=datetime.fromtimestamp(ts, tz=timezone.utc).isoformat()
-            badges=["新着"] if (time.time()-ts)<=24*3600 else []
+            badges = []
+if (time.time() - ts) <= 24*3600:
+    badges.append("新着")
+
+text = f"{title} {summary}"
+if re.search(r"(一括|実質|0円|1円)", text):
+    badges.append("特価")
+if re.search(r"(MNP|乗り換え)", text):
+    badges.append("MNP限定")
+if re.search(r"(値下げ|割引)", text):
+    badges.append("値下げ")
+if re.search(r"(キャッシュバック)", text):
+    badges.append("還元")
 
             uid=hashlib.md5(link.encode("utf-8")).hexdigest()[:12]
             items.append({
