@@ -1,7 +1,18 @@
 {
-  "generated_at": "2025-09-19T19:57:40.365098+00:00",
-  "count": 14,
+  "generated_at": "2025-09-19T20:22:51.615403+00:00",
+  "count": 15,
   "items": [
+    {
+      "id": "fcb6b397668e",
+      "title": "ドコモ、iPhone 17シリーズ販売停止　eSIMが開通しづらい障害で(CNET Japan)",
+      "summary": "NTTドコモがiPhone 17シリーズの販売を一時停止している。19日午後4時半から発生している「eSIMが開通しづらい事象」に伴うものだ。\n\n　障害の原因や復旧見込みは、19日午後8時半時点のス",
+      "url": "https://news.yahoo.co.jp/articles/6dcd9fb90e13268799e9f0611cde947b37b322dd?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T20:06:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
     {
       "id": "b412d87250f5",
       "title": "eSIMオンリーのiPhone 17の影響か？ ドコモ、eSIM発行でトラブル　端末販売も停止(アスキー)",
@@ -109,7 +120,8 @@
       "source": "news.yahoo.co.jp",
       "published_at": "2025-09-19T11:58:27+00:00",
       "badges": [
-        "新着"
+        "新着",
+        "特価"
       ]
     },
     {
