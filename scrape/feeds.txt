@@ -1,0 +1,3 @@
+https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw.rdf
+https://rss.itmedia.co.jp/rss/2.0/mobile_icl.xml
+https://news.yahoo.co.jp/rss/categories/it.xml
