@@ -1,24 +1,160 @@
 {
-  "generated_at": "2025-09-20T00:00:00Z",
-  "count": 2,
+  "generated_at": "2025-09-19T19:57:40.365098+00:00",
+  "count": 14,
   "items": [
     {
-      "id": "demo1",
-      "title": "【デモ】iPhone 16e 特価キャンペーンまとめ",
-      "summary": "デモデータです。ここに記事の要約が入ります。",
-      "url": "https://example.com/demo-16e",
-      "source": "example.com",
-      "published_at": "2025-09-19T15:00:00Z",
-      "badges": ["新着"]
+      "id": "b412d87250f5",
+      "title": "eSIMオンリーのiPhone 17の影響か？ ドコモ、eSIM発行でトラブル　端末販売も停止(アスキー)",
+      "summary": "NTTドコモは、9月19日16時30分頃から、eSIM対応端末におけるeSIMの開通がしづらい状況が発生していることを公表。SNS上でもiPhone間でeSIMを移動する「eSIMクイック転送」で「う",
+      "url": "https://news.yahoo.co.jp/articles/626a4c35f6e920d28fe8de48cfb64bf1c89a9001?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T15:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
     },
     {
-      "id": "demo2",
-      "title": "【デモ】iPhone 15 Pro 値下げ情報",
-      "summary": "値下げの噂ではなく実施情報のみを集約（デモ）。",
-      "url": "https://example.com/demo-15pro",
-      "source": "example.com",
-      "published_at": "2025-09-18T03:00:00Z",
-      "badges": []
+      "id": "30900494f5bd",
+      "title": "ドコモが「iPhone 17／Air」の販売を停止　eSIM開通できず通信できない問題受け(ITmedia Mobile)",
+      "summary": "NTTドコモは9月19日、同日16時30分から続いているeSIMに関連したトラブルを受け、eSIMの申し込みとeSIMのみに対応した端末の販売を停止することを明らかにした。\n\n　NTTドコモ公式Xア",
+      "url": "https://news.yahoo.co.jp/articles/3f966afc17b106ce748d49dd0d991697aface484?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T14:45:30+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "5e778b173ff4",
+      "title": "ドコモ、「iPhone 17」などの販売を停止　eSIM開通トラブルを受け(ITmedia NEWS)",
+      "summary": "NTTドコモは9月19日、同日午後4時半から発生しているeSIMに関連したトラブルを受け、eSIMの申し込みとeSIMのみに対応した端末の販売を停止するとXの公式アカウントで案内した。\n\n　ドコモは",
+      "url": "https://news.yahoo.co.jp/articles/974150d0913601ebe953ce92f00c409530c60405?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T13:59:04+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "c92cbd583bff",
+      "title": "ドコモ、「eSIM」申込とiPhone 17シリーズを一時販売停止(ケータイ Watch)",
+      "summary": "NTTドコモは、19日夕方に発生したeSIM開通に関する障害を受けて、店頭・オンラインショップでeSIMの発行とeSIM専用機種の販売を停止した。ただし、eSIM発行を求めない場合は端末は販売される",
+      "url": "https://news.yahoo.co.jp/articles/7e5cbc429dd802f0ba9edb621695cce257433869?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T13:47:01+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "419556f4e4e4",
+      "title": "ドコモ、eSIMの開通で障害。iPhone 17/Airにも影響(PC Watch)",
+      "summary": "NTTドコモは9月19日、eSIM対応端末でeSIMの開通がしづらくなる障害が発生していると報告した。\n\n　9月19日20時30分時点の同社の報告によると、同日16時30分頃より、eSIM対応端末に",
+      "url": "https://news.yahoo.co.jp/articles/b1a1d03e436f4058bf736269a3cb3bcf352a6922?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T13:41:59+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "fe276ed97b57",
+      "title": "KDDIが6年ぶりに新型iPhone発売イベント開催　「通信品質」「料金プラン」「eSIMの実績」を訴求(ITmedia Mobile)",
+      "summary": "KDDIは9月19日、東京・上野のau Style UENOで「新iPhone発売記念イベント」を開催した。松田浩路社長CEOが登壇し、iPhone 17シリーズの発売に合わせて、auならではの通信",
+      "url": "https://news.yahoo.co.jp/articles/ba9fab8336ca63f3b75c239630f778e5e85a1725?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T12:30:45+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "a4b2ca9bfe0c",
+      "title": "「光学ズーム」→「光学品質ズーム」に　Apple、iPhone 17 Proの“8倍ズーム”表記をひっそり修正(ITmedia NEWS)",
+      "summary": "物議を醸していた、「iPhone 17 Pro」公式サイトの望遠カメラに関する表記が19日、修正されたことが分かった。もともと「最大8倍の光学ズーム」と記載されていたが、現在は「最大8倍の光学品質ズ",
+      "url": "https://news.yahoo.co.jp/articles/661f9d2d31d404797e655ccf8f3107c47a19d61a?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T12:28:37+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "377770c0bae3",
+      "title": "期待している「iPhone 17シリーズ」ランキング！ 2位「iPhone Air」、1位は？【300人調査】(All About)",
+      "summary": "All About ニュース編集部では、2025年9月12日、全国10〜60代の男女300人を対象に、iPhone 17シリーズ＆Apple新製品に関するアンケートを実施しました。\n\nその中から、「期",
+      "url": "https://news.yahoo.co.jp/articles/97286745a613467e4206fe4486162537df36c896?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T12:20:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "1db60840f312",
+      "title": "ドコモの「iPhone 17」などで通信できず　発売初日に「eSIMシステム障害」　SNSには不満と励ましの声(ITmedia Mobile)",
+      "summary": "NTTドコモは9月19日、eSIMの開通手続きができない不具合が発生していると発表した。午後4時30分ごろから障害が続いており、現時点で復旧のめどは立っていないという。\n\n　同日発売となった「iPh",
+      "url": "https://news.yahoo.co.jp/articles/0bc98d808669160dfd52a4d05862f86d4b787493?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T12:13:06+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "095c51b4a4e6",
+      "title": "iPhone 17 Proの新色に合わせたフルグレインレザーケース発売　GOLDEN CONCEPTから1万9800円で(ITmedia Mobile)",
+      "summary": "PRINCIPE priveは、9月18日にスウェーデン発のラグジュアリーブランド「GOLDEN CONCEPT」からiPhone 17シリーズ向けフルグレインレザーケースを発売した。価格は1万98",
+      "url": "https://news.yahoo.co.jp/articles/726f704f3e35348b646b5e5033f66dbe017b2447?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T11:58:27+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "ac573fdf82dd",
+      "title": "3カ月前にiPhone 16買いました。17、あまり価格アップしなかったけどくやしくないです（迫真）(ギズモード・ジャパン)",
+      "summary": "第2世代のiPhone SEを使い続けて5年。特に不満はありませんでした。\n\n小さめの筐体は好みだし、そもそもわたしの用途は出先でウェブやSNSをチェックするのと、決済機能や野球ゲームをするくらいなの",
+      "url": "https://news.yahoo.co.jp/articles/b550d55d8de0bb7bada6392c3f9d5f6e59aca39e?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T11:30:01+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "47c1819de1ce",
+      "title": "NTTドコモ、eSIMの開通がしづらい事象発生--iPhone 17シリーズなどに影響(CNET Japan)",
+      "summary": "NTTドコモは9月19日、eSIM対応端末でeSIMの開通がしづらい事象が発生していると発表した。午後4時30分ごろから続いており、原因や復旧の見込みは「確認中」としている。\n\n　同社は「お客さまに",
+      "url": "https://news.yahoo.co.jp/articles/f8e5504c5408893eb672d1043b8bb298d9c2ac94?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T10:57:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "b2737f35e61c",
+      "title": "Apple、iPhone 17 Proのカメラ「8倍光学ズーム」表記を「光学品質ズーム」に修正(ITmedia Mobile)",
+      "summary": "Appleが「iPhone 17 Pro／Pro Max」のアウトカメラに搭載した望遠レンズの日本語表現について「誤解を招きかねないのではないか」という指摘が相次いでいた問題で、同社が日本語公式サイ",
+      "url": "https://news.yahoo.co.jp/articles/d7d42924b866595f61774dbcd38c7cf53cd5089f?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T10:05:09+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "364a01650642",
+      "title": "色々言ったけど、iPhone Air専用のMagSafeバッテリー、悪くないかも(ギズモード・ジャパン)",
+      "summary": "実物触ってみると意見が変わるやつでした。\n\n「iPhone Air MagSafeバッテリー」は、iPhone Airと一緒に発表されたモバイルバッテリー。やや心もとないiPhone Airのバッテリ",
+      "url": "https://news.yahoo.co.jp/articles/4fbc2812d9f8f3679c56a02ef645d575fdfe4bd9?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-19T10:00:01+00:00",
+      "badges": [
+        "新着"
+      ]
     }
   ]
 }
