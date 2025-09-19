@@ -1,0 +1,24 @@
+{
+  "generated_at": "2025-09-20T00:00:00Z",
+  "count": 2,
+  "items": [
+    {
+      "id": "demo1",
+      "title": "【デモ】iPhone 16e 特価キャンペーンまとめ",
+      "summary": "デモデータです。ここに記事の要約が入ります。",
+      "url": "https://example.com/demo-16e",
+      "source": "example.com",
+      "published_at": "2025-09-19T15:00:00Z",
+      "badges": ["新着"]
+    },
+    {
+      "id": "demo2",
+      "title": "【デモ】iPhone 15 Pro 値下げ情報",
+      "summary": "値下げの噂ではなく実施情報のみを集約（デモ）。",
+      "url": "https://example.com/demo-15pro",
+      "source": "example.com",
+      "published_at": "2025-09-18T03:00:00Z",
+      "badges": []
+    }
+  ]
+}
