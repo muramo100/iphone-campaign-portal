@@ -1,0 +1,24 @@
+name: Update feeds
+on:
+  schedule:
+    - cron: "0 23 * * *"   # JST 08:00（GitHubはUTC）
+  workflow_dispatch: {}     # 手動実行用
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install feedparser
+      - run: python scrape/fetch.py
+      - run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/data/campaigns.json
+            git commit -m "chore: update campaigns.json"
+            git push
+          fi
