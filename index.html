@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>iPhoneキャンペーン・ポータル（自分専用）</title>
+<style>
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;max-width:900px;margin:24px auto;padding:0 12px;line-height:1.6}
+  header{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+  input,select{padding:8px;border:1px solid #ddd;border-radius:8px}
+  .grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:12px}
+  @media(min-width:720px){.grid{grid-template-columns:1fr 1fr}}
+  .card{border:1px solid #eee;border-radius:16px;padding:14px;box-shadow:0 1px 6px rgba(0,0,0,0.04)}
+  .badge{border:1px solid #ddd;border-radius:999px;padding:2px 8px;font-size:12px;margin-right:6px}
+  .muted{color:#666;font-size:13px}
+</style>
+</head>
+<body>
+  <header>
+    <h1>iPhoneキャンペーン・ポータル</h1>
+    <div class="muted" id="meta"></div>
+  </header>
+  <div class="filters">
+    <input id="q" placeholder="キーワード（例：15 Pro / 16e / 楽天）" />
+    <select id="model">
+      <option value="">モデル：指定なし</option>
+      <option>16e</option><option>16</option><option>15 Pro</option><option>15</option>
+      <option>SE</option>
+    </select>
+    <select id="carrier">
+      <option value="">キャリア：指定なし</option>
+      <option>docomo</option><option>au</option><option>softbank</option><option>rakuten</option>
+      <option>mvno</option>
+    </select>
+    <button id="clear">クリア</button>
+  </div>
+  <div class="grid" id="list"></div>
+
+<script>
+(async function(){
+  const res = await fetch("./public/data/campaigns.json", {cache:"no-store"});
+  const data = await res.json();
+  const items = data.items || [];
+  document.getElementById("meta").textContent =
+    `更新: ${new Date(data.generated_at).toLocaleString()} / 件数: ${data.count}`;
+
+  const list = document.getElementById("list");
+  const q = document.getElementById("q");
+  const model = document.getElementById("model");
+  const carrier = document.getElementById("carrier");
+  const clear = document.getElementById("clear");
+
+  const render = () => {
+    const kw = (q.value||"").toLowerCase();
+    const m = (model.value||"").toLowerCase();
+    const c = (carrier.value||"").toLowerCase();
+
+    const filtered = items.filter(it=>{
+      const hay = `${it.title} ${it.summary} ${it.source}`.toLowerCase();
+      if (kw && !hay.includes(kw)) return false;
+      if (m && !hay.includes(m)) return false;
+      if (c && !hay.includes(c)) return false;
+      return true;
+    });
+
+    list.innerHTML = "";
+    filtered.forEach(it=>{
+      const div = document.createElement("div");
+      div.className = "card";
+      const badges = (it.badges||[]).map(b=>`<span class="badge">${b}</span>`).join("");
+      div.innerHTML = `
+        <div class="muted">${it.source}｜${new Date(it.published_at).toLocaleString()}</div>
+        <h3 style="margin:6px 0 8px"><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h3>
+        <p class="muted">${it.summary||""}</p>
+        <div style="margin-top:6px">${badges}</div>
+      `;
+      list.appendChild(div);
+    });
+
+    if (!filtered.length) {
+      list.innerHTML = `<div class="muted">該当なし。キーワードやフィルタを変えてみてください。</div>`;
+    }
+  };
+
+  q.addEventListener("input", render);
+  model.addEventListener("change", render);
+  carrier.addEventListener("change", render);
+  clear.addEventListener("click", ()=>{ q.value=""; model.value=""; carrier.value=""; render(); });
+
+  render();
+})();
+</script>
+</body>
+</html>
