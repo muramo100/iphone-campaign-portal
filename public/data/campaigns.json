@@ -1,5 +1,28 @@
 {
-  "generated_at": "2025-09-25T23:27:01.971273+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2025-09-26T23:26:14.177342+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "dac7c4768757",
+      "title": "製品名はiPhone 17 Pro似、違いはどこか──「Xiaomi 17」シリーズ発表、SNSで話題(ITmedia Mobile)",
+      "summary": "中国Xiaomiは9月25日、北京国家会議センターでイベントを開催し、新型スマートフォン「Xiaomi 17」シリーズを発表した。創業者の雷軍（レイ・ジュン）氏による年次講演を実施した。SNSでは、",
+      "url": "https://news.yahoo.co.jp/articles/63e38e390eb6bb2b52735716a324edcca3c77751?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-26T21:00:16+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "f7b6d9eef90d",
+      "title": "iPhone 17 Proの「傷」問題。拭けばとれるみたい(ギズモード・ジャパン)",
+      "summary": "9月19日、iPhone 17シリーズの発売直後から発生している「iPhone 17 Pro傷すぐつく問題」。Appleストアで展示されているiPhone 17 Proの背面が傷だらけだと、SNSに画",
+      "url": "https://news.yahoo.co.jp/articles/4c9a1ce9b0b523e707bcb3e020da6fb63c0aafca?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-09-26T13:00:02+00:00",
+      "badges": [
+        "新着"
+      ]
+    }
+  ]
 }
