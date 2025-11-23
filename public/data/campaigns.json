@@ -1,5 +1,17 @@
 {
-  "generated_at": "2025-11-22T23:12:55.924187+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2025-11-23T23:12:58.144732+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "1452c4f2f01a",
+      "title": "【iPhone】容量不足で『iOS』アップデートができない！ストレージを空ける6つの対処方法とは(スマホライフPLUS)",
+      "summary": "最近、iOSのアップデートの容量が非常に大きくなっています。iOS 18では約7GB、iOS 26ではなんと12GB以上もあるのです。これでは、古い機種だとストレージ容量不足で、アップデートしたくても",
+      "url": "https://news.yahoo.co.jp/articles/17f085b4c43ef533cfa5edd80bdf2b44f2292d95?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-11-23T07:00:23+00:00",
+      "badges": [
+        "新着"
+      ]
+    }
+  ]
 }
