@@ -1,14 +1,36 @@
 {
-  "generated_at": "2025-12-07T23:13:00.415531+00:00",
-  "count": 1,
+  "generated_at": "2025-12-08T23:14:01.049462+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "5aca4c333e09",
-      "title": "薄型スマホは中国で不人気？　「iPhone Air」が売れていない理由(ITmedia Mobile)",
-      "summary": "「iPhone Air」の販売が目標に達していないというニュースを多く見かけるようになりました。Appleのスマートフォン販売台数自体は好調で、筆者の住む香港や、隣の中国・深センでも、特に「iPho",
-      "url": "https://news.yahoo.co.jp/articles/cfa3101852ac7751e6c0cd2ba3fbdb182d03053d?source=rss",
+      "id": "ebe827ed84fc",
+      "title": "Apple、“衛星経由のメッセージ”を日本で利用可能に　iPhone 14以降とApple Watch Ultra 3が対象(ITmedia Mobile)",
+      "summary": "圏外の場所でも家族や友人との連絡手段を確保できる仕組みとして、iPhone 14以降とApple Watch Ultra 3が新たに衛星経由のメッセージ機能に対応した。提供開始は日本国内のユーザーを",
+      "url": "https://news.yahoo.co.jp/articles/e8e087fcd535ebf48e25b1aee42c0428582eead3?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2025-12-07T22:05:09+00:00",
+      "published_at": "2025-12-08T22:58:53+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "fc41b17e8709",
+      "title": "iPhoneの「衛星経由のメッセージ」が日本でも利用可能に--登山などで活躍(CNET Japan)",
+      "summary": "Appleは12月9日、「衛星経由のメッセージ」機能の提供を日本でも始めた。iPhone 14以降のモデルとApple Watch Ultra 3で利用でき、携帯電話の電波やWi-Fiが届かない場所",
+      "url": "https://news.yahoo.co.jp/articles/b5b21526508005500d070aff84adef423d56f3b7?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-12-08T22:01:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "2885982d6294",
+      "title": "ついに日本上陸。iPhoneの衛星通信が「メッセージ」に対応、12月9日から(ケータイ Watch)",
+      "summary": "2025年12月9日午前5時より、iPhone、Apple Watchで利用できる衛星通信サービスに「iMessage」「SMSの送受信機能」が追加された。\n\n　仕組みとしては、これまで緊急通報に活",
+      "url": "https://news.yahoo.co.jp/articles/1bbd4c7a8beb55359e96559767daa1da2c80df47?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2025-12-08T20:02:00+00:00",
       "badges": [
         "新着"
       ]
