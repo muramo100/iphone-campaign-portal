@@ -1,5 +1,29 @@
 {
-  "generated_at": "2026-01-08T23:13:47.653240+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-01-09T23:15:01.033246+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "ba0cab1c81b2",
+      "title": "トリニティ、iPhone 17向け薄型クリアケース発売　MagSafeアクセサリーも対応(ITmedia Mobile)",
+      "summary": "トリニティは、1月16日にデジタルアクセサリーブランド「Simplism」の「AIR-REAL INVISIBLE」からiPhone 17向けクリアケースを発売。価格は2180円で全国の家電量販店や",
+      "url": "https://news.yahoo.co.jp/articles/6904980f371d85e9f2f368c5f2fd7497c5d7b5a0?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-01-09T12:39:21+00:00",
+      "badges": [
+        "新着",
+        "特価"
+      ]
+    },
+    {
+      "id": "f8b650c98a0a",
+      "title": "「iPhone 14」が急上昇して販売1位に　ゲオの2025年12月中古スマホランキング(ITmedia Mobile)",
+      "summary": "ゲオストアは、1月9日に「12月ゲオ中古スマホランキング」を発表した。2025年12月1日から12月31日までの期間、全国のゲオショップ、ゲオモバイルなど約1400店舗で取り扱った中古スマートフォン",
+      "url": "https://news.yahoo.co.jp/articles/25556cda5850c136d98725b2ced22c1476ab92c8?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-01-09T12:15:02+00:00",
+      "badges": [
+        "新着"
+      ]
+    }
+  ]
 }
