@@ -1,5 +1,28 @@
 {
-  "generated_at": "2026-01-11T23:14:14.248914+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-01-12T23:12:37.464178+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "1b959adf4322",
+      "title": "エレコム、iPhoneの写真を外部ストレージにバックアップするアプリ「ELECOM EXtorage Plus」リリース(INTERNET Watch)",
+      "summary": "エレコム株式会社は1月9日、iPhone/iPadに保存された写真や動画を同社製外部ストレージにバックアップできる無料アプリ「ELECOM EXtorage Plus」をリリースした。対応OSはiO",
+      "url": "https://news.yahoo.co.jp/articles/5bf12fa461e6e5494ef537d7a68293c6b57c0837?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-01-12T23:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "e0ec2115e9c3",
+      "title": "「言われた通りやっただけ」で詰む時代　iPhone騒動から見るスマホを狙う新たな攻撃線(ITmedia エンタープライズ)",
+      "summary": "新年早々、気になる投稿がSNSを巡っていました。「iPhone」の日付設定を未来日付にすることで、たまったキャッシュを削除でき、容量が空くという趣旨の投稿です。ただしこれをした結果、再起動を繰り返し",
+      "url": "https://news.yahoo.co.jp/articles/b54dc140adfb9119621c6f4c2177598895901e52?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-01-12T22:15:12+00:00",
+      "badges": [
+        "新着"
+      ]
+    }
+  ]
 }
