@@ -1,82 +1,14 @@
 {
-  "generated_at": "2026-03-02T23:19:38.255311+00:00",
-  "count": 7,
+  "generated_at": "2026-03-03T23:20:21.146596+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "6caa6892aace",
-      "title": "iPhone 17e発表。容量倍増と最新A19で10万円切り据え置き、MagSafeにも初対応　eSIM限定とGPUコア減は注意(テクノエッジ)",
-      "summary": "ティム・クックが予告した「a big week」の初日、Apple が今年の廉価版iPhoneである iPhone 17e を発表しました。\n\n\n主な特徴は、\n\n・最低容量が256GBに倍増。価格は昨",
-      "url": "https://news.yahoo.co.jp/articles/ac5a38fa5fa00a86a30d009e9cd7a91724214644?source=rss",
+      "id": "fe1b7fc251dc",
+      "title": "アップル、M5 Pro / Max搭載MacBook ProおよびM5 MacBook Airを発表。謎の「MacBook Neo」もうっかり漏らす(テクノエッジ)",
+      "summary": "前日のiPhone 17eに続き、アップルはM5 Pro / M5 Maxチップを搭載したMacBook ProおよびMacBook Air、新しいSrudio DisplayとStudio Disp",
+      "url": "https://news.yahoo.co.jp/articles/5141901d255f546bcdab18cd22316db786200e8b?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-02T22:45:03+00:00",
-      "badges": [
-        "新着"
-      ]
-    },
-    {
-      "id": "d1eff13a89df",
-      "title": "アップルが「iPhone 17e」発表--容量倍増で価格据え置き　256GBモデルが10万円切り(CNET Japan)",
-      "summary": "Appleは3月2日（現地時間）、新モデル「iPhone 17e」を発表した。最低ストレージ容量は、前モデル「16e」から倍増となる256GBに拡大。それにもかかわらず、価格は据え置きの9万9800",
-      "url": "https://news.yahoo.co.jp/articles/1aea17bec5842f7f734fe484cc688498e45b3bd3?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-02T22:03:00+00:00",
-      "badges": [
-        "新着"
-      ]
-    },
-    {
-      "id": "ff2f4af02751",
-      "title": "iPhone 17eは「物理SIMカード非対応」も、eSIM対応モデルに(ITmedia Mobile)",
-      "summary": "Appleは2026年3月11日に「iPhone 17e」を日本で発売する。本機は抜き差しが可能なSIMカードに対応せず、物理的なSIMカードの差込口を完全に廃止した。最大8つ以上のeSIMを保存で",
-      "url": "https://news.yahoo.co.jp/articles/3de74b7fc939485b5711846ea01fa4cca7fc4694?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-02T21:00:19+00:00",
-      "badges": [
-        "新着"
-      ]
-    },
-    {
-      "id": "f1f9d69e3f26",
-      "title": "アップル「iPhone 17e」発表。実質値下げでMagSafe対応も「物理SIM非対応」の落とし穴(BUSINESS INSIDER JAPAN)",
-      "summary": "アップルは3月2日（現地時間）、新型スマートフォン「iPhone 17e」を発表した。\n\n2025年2月28日に発売された「iPhone 16e」に続く、2代目のeシリーズで、2025年9月発表の「i",
-      "url": "https://news.yahoo.co.jp/articles/115bc022bd12f24d1e2ca0d9273b2e9cd7b0e5c2?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-02T21:00:04+00:00",
-      "badges": [
-        "新着",
-        "特価",
-        "値下げ"
-      ]
-    },
-    {
-      "id": "6ccc0e0d94af",
-      "title": "Apple Watchのバンドが豊作だ！ 本日発表されたAppleアクセサリまとめ(ギズモード・ジャパン)",
-      "summary": "今宵、iPhone 17eとM4 iPad Airが発表されましたが、そのほかにもアクセサリ類が多数発表されました。\n\nということで、どどーんとまとめてみたいと思います。",
-      "url": "https://news.yahoo.co.jp/articles/6bbb245cb160ffb51d711635edea45277ee2fdb6?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-02T21:00:02+00:00",
-      "badges": [
-        "新着"
-      ]
-    },
-    {
-      "id": "df4582d94767",
-      "title": "またひとつ時代が終わった。iPhone 17e、物理SIMが使えなくなりました(ギズモード・ジャパン)",
-      "summary": "こんにちは、eSIM。\n\niPhone 17シリーズでは、物理SIM（nano-SIM）が使えなくなり、eSIMオンリーとなりました。そして、iPhone 17eもとうとうeSIMのみになりました。",
-      "url": "https://news.yahoo.co.jp/articles/6eb785a4211d31e09f6a7cb352d183ea70837488?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-02T21:00:02+00:00",
-      "badges": [
-        "新着"
-      ]
-    },
-    {
-      "id": "e192b69ee132",
-      "title": "iPhone 17eはMagSafe対応へ。ほら、やっぱ必要だったじゃん(ギズモード・ジャパン)",
-      "summary": "惜しまれていましたからね。\n\n本日発表された「iPhone 17e」、新色が加わった以外はほとんど昨年のiPhone 16eと変わりませんが、体験としてはさらに便利になりそうですよ。なんせ、MagSa",
-      "url": "https://news.yahoo.co.jp/articles/4444150e12e2a8e0d6db4ec59b465434ea18b66e?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-02T21:00:02+00:00",
+      "published_at": "2026-03-03T21:28:53+00:00",
       "badges": [
         "新着"
       ]
