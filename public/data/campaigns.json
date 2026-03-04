@@ -1,14 +1,47 @@
 {
-  "generated_at": "2026-03-03T23:20:21.146596+00:00",
-  "count": 1,
+  "generated_at": "2026-03-04T23:23:53.758407+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "fe1b7fc251dc",
-      "title": "アップル、M5 Pro / Max搭載MacBook ProおよびM5 MacBook Airを発表。謎の「MacBook Neo」もうっかり漏らす(テクノエッジ)",
-      "summary": "前日のiPhone 17eに続き、アップルはM5 Pro / M5 Maxチップを搭載したMacBook ProおよびMacBook Air、新しいSrudio DisplayとStudio Disp",
-      "url": "https://news.yahoo.co.jp/articles/5141901d255f546bcdab18cd22316db786200e8b?source=rss",
+      "id": "a3e0d809fce5",
+      "title": "【3分でわかる】10万円切りの新Macノート、「MacBook Neo」はここがスゴい、ここが魅力的(アスキー)",
+      "summary": "4日深夜にアップルが発表したMacの新型ノート「MacBook Neo」。iPhone 17よりも安い10万円切りという価格が話題ですが、どこがスゴくて、どうしてみんな騒いでいるのか、3分でわかるよう",
+      "url": "https://news.yahoo.co.jp/articles/5101ea537aa9a68cd4c1f7a6499468c5e11a3554?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-03T21:28:53+00:00",
+      "published_at": "2026-03-04T23:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "51d4ceb05ff7",
+      "title": "【期間限定】WBC 2026 公式スマホケースが登場 大谷選手など14選手展開 iPhone・Android 160機種以上から選べる(BCN)",
+      "summary": "オンデマンドプリントでユーザーが求めるデザインのテックアクセサリー（スマートフォン関連アイテム）を提供するサービスcaseplayは、「2026 WORLD BASEBALL CLASSIC」オフィ",
+      "url": "https://news.yahoo.co.jp/articles/714583fff2c91ae256fb41cdf48c9e4b373e4b44?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-03-04T22:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "5c79d52b5f7e",
+      "title": "アップルが10万円切りノートPC「MacBook Neo」発表。iPhone 16 Proと同じチップの入門機(BUSINESS INSIDER JAPAN)",
+      "summary": "アップルは3月4日（現地時間）、完全新型ノートPCとなる「MacBook Neo」を発表した。\n\n日本でもすでに予約が開始されており、出荷開始は3月11日の予定。ストレージ別の直販価格（いずれも税込）",
+      "url": "https://news.yahoo.co.jp/articles/7648e6796f9cbbcccd16790c70372409b45fea69?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-03-04T21:00:04+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "d8a019c6f1cc",
+      "title": "MacBook NeoとiPhone 16 ProのA18 Proチップは“ちょっとだけ”違う(ギズモード・ジャパン)",
+      "summary": "細かい話なんですけどね。\n\nMacBook Neoは、メインチップにiPhone 16 Pro/Pro Maxに搭載されている「A18 Pro」チップを搭載しています。どれだけのパフォーマンスが出るの",
+      "url": "https://news.yahoo.co.jp/articles/94186b78e9fceb8da176ad8ecfc889711af35c14?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-03-04T21:00:01+00:00",
       "badges": [
         "新着"
       ]
