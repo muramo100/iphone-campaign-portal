@@ -1,5 +1,40 @@
 {
-  "generated_at": "2026-03-06T23:21:36.472168+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-03-07T23:16:35.406601+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "3b11e4567e50",
+      "title": "ITmedia Mobile人気記事より：iPhone 17eって意外とお得じゃない？(ITmedia Mobile)",
+      "summary": "ITmedia Mobileにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia Mobile Weekly Top10」。今回は2026年2月26日から3月4日までの7日",
+      "url": "https://news.yahoo.co.jp/articles/f23231403087493d9e13f9b5e2d7431a32ea59c2?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-03-07T09:40:09+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "febf88af5e48",
+      "title": "iPhone 17が4カ月連続首位、26年2月に売れたスマートフォンTOP10(BCN)",
+      "summary": "「BCNランキング」2026年2月の月次集計データによると、スマートフォンシリーズ別の実売台数ランキングは以下の通りとなった。\n\n1位　iPhone 17（アップル）\n\n2位　iPhone 16e（",
+      "url": "https://news.yahoo.co.jp/articles/99b26683fa30cb3b745ce89ed6ab80487dbc9d4c?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-03-07T09:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "0ed66b2255aa",
+      "title": "「10万を切る」iPhone 17eがもたらす市場インパクト、メモリ危機時代にアップルとサムスンが躍進する理由(Forbes JAPAN)",
+      "summary": "9万9800円。アップルが3月4日に予約を開始したiPhone 17eの日本での価格である。10万円の壁を1歩だけ下回ったこの数字には、もちろん“10万円切り”という戦略的な意味がある。\n\nしかし、こ",
+      "url": "https://news.yahoo.co.jp/articles/44e6495c6b7513ac320469f70e478deb77eefc39?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-03-06T23:30:00+00:00",
+      "badges": [
+        "新着",
+        "特価"
+      ]
+    }
+  ]
 }
