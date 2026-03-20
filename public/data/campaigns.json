@@ -1,29 +1,39 @@
 {
-  "generated_at": "2026-03-19T23:23:58.641704+00:00",
-  "count": 2,
+  "generated_at": "2026-03-20T23:22:52.545145+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "cae4bd27c912",
-      "title": "iPhone 17eが上昇！　スマホ（シリーズ別）人気ランキングTOP10　2026/3/20(BCN)",
-      "summary": "「BCNランキング」2026年3月9日～15日の日次集計データによると、スマートフォン（スマホ）シリーズ別の実売台数ランキングは以下の通りとなった。\n\n1位　iPhone 17（アップル）\n\n2位",
-      "url": "https://news.yahoo.co.jp/articles/7df80fc2c754a29ce6c2e2e66a782dfdba67aef7?source=rss",
+      "id": "b74420944934",
+      "title": "iPhone、Galaxy、Pixelの新モデルを徹底比較！...サムスンは実質月1円と激安!?(週プレNEWS)",
+      "summary": "iPhone、Galaxy、Pixel。国内4キャリアが採用する人気スマホ3シリーズに新モデルが続々と登場中。そのスペックや買い方、そしてそれぞれの進化のポイントを紹介します！　＊金額はすべて税込。情",
+      "url": "https://news.yahoo.co.jp/articles/7f787ed1ff5bca1385de2c0569df889f14100b30?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-19T22:30:00+00:00",
+      "published_at": "2026-03-20T22:01:07+00:00",
+      "badges": [
+        "新着",
+        "特価"
+      ]
+    },
+    {
+      "id": "95cb766bd683",
+      "title": "アップル「iPhone 16e」MagSafe対応可能に　iPhone 17eの背面パネル装着で(アスキー)",
+      "summary": "アップルはiPhone 17eでMagSafeに対応したが、そのバックパネルをiPhone 16eにそのまま取り付けられることがわかった。",
+      "url": "https://news.yahoo.co.jp/articles/84da65c2e3725fa38630f8344886335da1bcf4ca?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-03-20T11:00:00+00:00",
       "badges": [
         "新着"
       ]
     },
     {
-      "id": "263006d6e236",
-      "title": "Y!mobileの「iPhone 16（128GB）」、MNPで2年間9648円に【スマホお得情報】(ITmedia Mobile)",
-      "summary": "ソフトバンクは、Y!mobileオンラインストアで「iPhone 16（128GB）」を安価に販売中。通常14万5440円のところ、MNPで申し込み「新トクするサポート（A）」を適用すると2年間96",
-      "url": "https://news.yahoo.co.jp/articles/52c9637343e75a88b87f92403197b99f493f4906?source=rss",
+      "id": "8b4d3718226a",
+      "title": "アップル「iPhone 19e」120Hz表示か、低価格モデルでもProMotion対応の可能性(アスキー)",
+      "summary": "アップルは2028年前半に発売予定の低価格モデルのiPhone 19eに、画面のなめらかさが大幅に向上する120HzのProMotionディスプレーを搭載する可能性がある。",
+      "url": "https://news.yahoo.co.jp/articles/176e03468bbca10b3541ba117b2dd20e28c5f28b?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-19T10:50:27+00:00",
+      "published_at": "2026-03-20T11:00:00+00:00",
       "badges": [
-        "新着",
-        "特価",
-        "MNP限定"
+        "新着"
       ]
     }
   ]
