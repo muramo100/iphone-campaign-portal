@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-03-29T23:25:58.976915+00:00",
-  "count": 1,
+  "generated_at": "2026-03-30T23:28:49.245974+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "015fcab114cb",
-      "title": "話題の「iPhone 17e」レビュー！進化した10万円切りモデルの実力と2つの割り切り(＠ＤＩＭＥ)",
-      "summary": "昨年に続き、廉価版のiPhoneが登場した。iPhone 17eがそれだ。同モデルは、iPhone 17シリーズでもっともリーズナブルな端末として投入されたスマートフォン。ベースモデルのiPhone",
-      "url": "https://news.yahoo.co.jp/articles/e65ec723e2dbf6b8e2596ab203e7e877730fd5ff?source=rss",
+      "id": "ee3c5241125c",
+      "title": "iPhone Air、実はiPhone Plusの“2倍人気”？(アスキー)",
+      "summary": "アップルが新たに発売したiPhone Airは、これまで同じポジションにいたiPhone 16 Plusと比較して約2倍の人気を獲得しているという。",
+      "url": "https://news.yahoo.co.jp/articles/6399c0d045a97963318e0709d76a6edca341d187?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-03-29T11:51:18+00:00",
+      "published_at": "2026-03-30T11:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "cdf05ba33da6",
+      "title": "アップルiPhone 18 Pro、ダイナミックアイランド継続か　画面下Face IDに課題(アスキー)",
+      "summary": "アップルがiPhoneの画面下にFace IDやフロントカメラを埋め込む技術の開発は、思うように進んでいないようだ。",
+      "url": "https://news.yahoo.co.jp/articles/f45b9b490a13d6f5f0c148fd72545015e2a0058c?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-03-30T11:00:00+00:00",
       "badges": [
         "新着"
       ]
