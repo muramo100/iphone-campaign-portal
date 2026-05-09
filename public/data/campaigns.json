@@ -1,5 +1,39 @@
 {
-  "generated_at": "2026-05-08T23:51:00.212258+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-05-09T23:40:04.965923+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "3d984d76dae7",
+      "title": "アップルのクック氏「iPhone 17は需要に対して供給不足の状態」と明かす(アスキー)",
+      "summary": "アップルのティム・クックCEOが取材に対して、「iPhone 17の需要は桁外れなほど高いものの、供給不足により本来なら売れる分を売り切れていない」と語ったという。ロイター通信が4月30日に報じた。",
+      "url": "https://news.yahoo.co.jp/articles/960058068951d817fa05c77a82e11fcf9f92c444?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-05-09T11:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "f0e50e6f38e9",
+      "title": "「楽天カードアプリ」のカード番号表示サービス初回本人確認時に「iPhoneのマイナンバーカード」が使えるように(BCN)",
+      "summary": "楽天カードは、「楽天カードアプリ」iOS版のカード番号表示サービスの初回利用時の本人確認において「iPhoneのマイナンバーカード」が5月7日から利用可能になったと発表した。\n\n\n\n●「iPhone",
+      "url": "https://news.yahoo.co.jp/articles/d7ba15fb969b409cbe302d8c53d1a1ad4af31af1?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-05-09T09:30:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "acbff6fba3b1",
+      "title": "今年、iPhone 18は「発売されない」可能性　登場を遅らせるアップルが狙う巧みな市場調整(Forbes JAPAN)",
+      "summary": "複数の報道によれば、アップルは今年、標準モデルである「iPhone 18」の発売を見送る公算が大きい。今回、継続的に情報を発信しているリーカーが、その理由を説明した。ここで留意すべきは、iPhone",
+      "url": "https://news.yahoo.co.jp/articles/d2f8ebd5971e252fb03d79f40b6a9ebef4f0b74a?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-05-09T05:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    }
+  ]
 }
