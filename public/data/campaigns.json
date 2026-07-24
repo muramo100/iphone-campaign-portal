@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-07-23T23:53:57.400487+00:00",
-  "count": 1,
+  "generated_at": "2026-07-24T23:57:35.415432+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "0c1df5554059",
-      "title": "iPhone 17が好調　スマホ人気ランキングTOP10　2026/7/24(BCN)",
-      "summary": "「BCNランキング」2026年7月13日～19日の日次集計データによると、スマートフォン（スマホ）シリーズ別の実売台数ランキングは以下の通りとなった。\n\n1位　iPhone 17（アップル）\n\n2位",
-      "url": "https://news.yahoo.co.jp/articles/a9a158b0e773bb7d9439f4f0c82cc18444ad0d32?source=rss",
+      "id": "8f7e86e27657",
+      "title": "「iOS 27」の過小評価されている5つの機能で「iPhone」を使いやすく--だたし「Siri AI」は含まず(ZDNET Japan)",
+      "summary": "Appleが年次開発者向け会議「WWDC 2026」で発表した「iOS 27」のパブリックベータ版が利用可能になった。筆者は、iOS 27の展開直後に開発者向けベータ版をインストールし、1カ月間にわ",
+      "url": "https://news.yahoo.co.jp/articles/6eb0aec67018af0344eacd6a42c91beedaef877e?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-07-23T22:30:00+00:00",
+      "published_at": "2026-07-24T22:00:00+00:00",
       "badges": [
         "新着"
+      ]
+    },
+    {
+      "id": "92ad94c740d6",
+      "title": "ドコモが「iPhone 17」シリーズや「iPhone Air」を値上げ　一部機種は残価も引き上げ、実質負担額の影響は？(ITmedia Mobile)",
+      "summary": "NTTドコモが、7月28日以降、オンラインショップにおけるiPhoneの価格を改定する。\n\n　対象機種と価格は以下の通り。\n\n・iPhone 16（128GB）……14万5706円→15万6266円",
+      "url": "https://news.yahoo.co.jp/articles/a31d8a940024369e441159562f8b080fe7815c72?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-07-24T12:12:40+00:00",
+      "badges": [
+        "新着",
+        "特価"
       ]
     }
   ]
