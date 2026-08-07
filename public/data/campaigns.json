@@ -1,5 +1,28 @@
 {
-  "generated_at": "2026-08-05T23:53:26.502011+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-08-07T01:39:52.332352+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "3050501c681f",
+      "title": "アップルの「iPhone 18」生産、深刻化するDRAMメモリー不足に直面(Forbes JAPAN)",
+      "summary": "約10億ドル（約1580億円）相当のAppleシリコンが、行き先のないままTSMCに滞留している。iPhone 18 Pro用の「A20 Pro」チップはすでに製造されており、歩留まり（良品率）も良好",
+      "url": "https://news.yahoo.co.jp/articles/9d266716fb6078640ed23a1074e157a9978a5623?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-08-06T23:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "be2b0e05e34a",
+      "title": "iPhone Airが首位に　スマホ人気ランキングTOP10　2026/8/7(BCN)",
+      "summary": "「BCNランキング」2026年7月27日～8月2日の日次集計データによると、スマートフォン（スマホ）シリーズ別の実売台数ランキングは以下の通りとなった。\n\n1位　iPhone Air（アップル）",
+      "url": "https://news.yahoo.co.jp/articles/ba6415382738ba9a2cd5dffcfa9bf56ba364a168?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-08-06T22:30:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    }
+  ]
 }
