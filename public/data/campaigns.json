@@ -1,5 +1,18 @@
 {
-  "generated_at": "2026-08-11T23:32:30.866649+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-08-12T23:33:32.989485+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "00cdecf44105",
+      "title": "Google、iPhone→Pixelへの乗り換えを楽に　どう便利になるのか解説(ITmedia Mobile)",
+      "summary": "Googleは、他OSからGoogle Pixel端末への移行プロセスを大幅に簡略化する。これまでユーザーが感じていた「データの移行が面倒」「パスワードの再設定が大変」といった不安を解消し、よりシン",
+      "url": "https://news.yahoo.co.jp/articles/ec8a7490c37d21b4505b70ae1d3a1c97df447a34?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-08-12T23:05:20+00:00",
+      "badges": [
+        "新着",
+        "MNP限定"
+      ]
+    }
+  ]
 }
