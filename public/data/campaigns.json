@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-09-04T00:36:09.513250+00:00",
-  "count": 1,
+  "generated_at": "2026-09-05T00:32:01.898045+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "6758b56fd9f0",
-      "title": "iPhone 17/17eが好調　スマホ人気ランキングTOP10　2026/9/4(BCN)",
-      "summary": "「BCNランキング」2026年8月24日～30日の日次集計データによると、スマートフォン（スマホ）シリーズ別の実売台数ランキングは以下の通りとなった。\n\n1位　iPhone 17（アップル）\n\n2位",
-      "url": "https://news.yahoo.co.jp/articles/41edf568efc58fd76cef1e576873ab30858de594?source=rss",
+      "id": "134af4b2b15d",
+      "title": "アップル「iPhone 18 Pro」A20 Pro、GPU7コア化か　メモリ帯域も1.5倍に？(アスキー)",
+      "summary": "アップルが来週発表するとうわさのiPhone 18 Pro／Pro Maxに搭載される「A20 Pro」チップは、GPUを7コア構成にするなどの複数の強化が施されているようだ。中国のSNS微博（we",
+      "url": "https://news.yahoo.co.jp/articles/d28756bbfa5694faf8a9f3e1b0e96e8bf34f88b8?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-03T22:30:00+00:00",
+      "published_at": "2026-09-04T11:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "4d243a1bfecd",
+      "title": "アップル「iPhone 18 Pro」22万円超え？(アスキー)",
+      "summary": "アップルが9月9日（日本時間9月10日）のスペシャルイベントで発表するとみられるiPhone 18 Proシリーズは、前モデルから150〜200ドル（約2万5千〜3万5千円）値上げされる可能性がある",
+      "url": "https://news.yahoo.co.jp/articles/c7c2e1278fa6e649a6da77c5639f260449832cca?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-04T11:00:00+00:00",
       "badges": [
         "新着"
       ]
