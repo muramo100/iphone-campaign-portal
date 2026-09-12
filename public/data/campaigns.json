@@ -1,73 +1,87 @@
 {
-  "generated_at": "2026-09-11T00:44:42.925524+00:00",
-  "count": 6,
+  "generated_at": "2026-09-12T00:49:27.528569+00:00",
+  "count": 7,
   "items": [
     {
-      "id": "32ef19991b8c",
-      "title": "「iPhone Duo」の折り目は見える？見えない？目立つ？目立たない？--実機を触った筆者の最終結論(CNET Japan)",
-      "summary": "米Appleが9日（現地時間）に発表した同社初の折りたたみスマートフォン「iPhone Duo」。折りたたみ端末を検討したことがある人なら、真っ先に気になるのは画面の「折り目」だろう。米CNETでこ",
-      "url": "https://news.yahoo.co.jp/articles/96dcf419ecd2b2d4274574b3cdb04093f8ca1a9a?source=rss",
+      "id": "52d293543e36",
+      "title": "【今から追いつく】5分でわかるiPhone Duo！ iPhone初めての折りたたみ機は約36万円もその価値はあり(アスキー)",
+      "summary": "iPhone初の折りたたみ機「iPhone Duo」。ネット上にはすでに多数の記事がありますが、サックリとどんなものか知りたい人も多いはず。そこで5分でわかるようにまとめました。",
+      "url": "https://news.yahoo.co.jp/articles/303f0ea2c439fecc5bc3b933f933f0571a9f3441?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-10T22:46:00+00:00",
+      "published_at": "2026-09-12T00:00:00+00:00",
       "badges": [
         "新着"
       ]
     },
     {
-      "id": "f8e9239b1b28",
-      "title": "Pixel 10aが奮闘　スマホシリーズ別人気ランキングTOP10　2026/9/11(BCN)",
-      "summary": "「BCNランキング」2026年8月31日～9月6日の日次集計データによると、スマートフォン（スマホ）シリーズ別の実売台数ランキングは以下の通りとなった。\n\n1位　iPhone 17（アップル）\n\n2",
-      "url": "https://news.yahoo.co.jp/articles/04c83729fabcfccae0b5a3abf6ca83a6634cc3d9?source=rss",
+      "id": "9062d8befbd1",
+      "title": "アップルの折りたたみスマホ「iPhone Duo」、第一印象と押さえておきたいポイント(Forbes JAPAN)",
+      "summary": "数カ月にわたって臆測が飛び交い、期待と興奮が高まる中、アップルがついに同社初の折りたたみiPhoneを発表した。名称は「iPhone Duo」で、価格は1999ドル（日本での価格は36万4800円）、",
+      "url": "https://news.yahoo.co.jp/articles/aa6ec7391610c6a30e0d3043efbec24c397caa3f?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-10T22:30:00+00:00",
-      "badges": [
-        "新着"
-      ]
-    },
-    {
-      "id": "8f2c960fc4ca",
-      "title": "新しいiPhoneバカ高いんだが？　令和の日本人には厳しい件(ITmedia NEWS)",
-      "summary": "ギリギリゆとり世代のITmedia NEWS副編集長・ヤマーと、ギリギリZ世代の編集部員・ヨシが、ネットやITの話題について取りとめもなく語る雑談コーナー。\n\n　今回のテーマは新型の「iPhone",
-      "url": "https://news.yahoo.co.jp/articles/2d22f9c06e77ca10a8e134607ab2b38c3ecfb350?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-10T22:00:12+00:00",
-      "badges": [
-        "新着"
-      ]
-    },
-    {
-      "id": "362c7eb4b564",
-      "title": "iPhone Duoも使ってる「eSIM」って、何の略かわかりますか？ eはエレクトロニック……ではありません！(アスキー)",
-      "summary": "日本で発売されるiPhone 18 ProとiPhone Duoは\nすべて「eSIM」オンリーですが\n　\n　さあ、今年も新型iPhoneの季節がやって来ました。待望の折りたたみモデルiPhone Du",
-      "url": "https://news.yahoo.co.jp/articles/15ae74965e9e8517e8e4ce014f0ee20356ef74fb?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-10T22:00:00+00:00",
-      "badges": [
-        "新着"
-      ]
-    },
-    {
-      "id": "21e515c44bd4",
-      "title": "トランプスマホ「T1」が従来比1.5倍にサイレント値上げ。iPhone 17eより高額に(テクノエッジ)",
-      "summary": "トランプ米大統領が所有するトランプ・オーガニゼーション傘下のMVNO事業者トランプ・モバイルは、同社が販売する金色のスマートフォン「T1」の価格を、499ドル（約7万7000円）から749ドル（約12",
-      "url": "https://news.yahoo.co.jp/articles/f5945ecb294dfda9d203b166e4029ba7d952350f?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-10T21:30:03+00:00",
+      "published_at": "2026-09-11T23:00:00+00:00",
       "badges": [
         "新着",
         "特価"
       ]
     },
     {
-      "id": "416e40da9f6a",
-      "title": "iPhone 18 Pro/Duo登場の裏で旧機種が最大4万7000円値上げ。Apple Storeから消えたモデルも(BUSINESS INSIDER JAPAN)",
-      "summary": "9月10日（日本時間）、アップルが新製品発表イベントを開催し、「iPhone 18 Pro」「iPhone 18 Pro Max」や「iPhone Duo」といったiPhoneの新モデル、新世代の「A",
-      "url": "https://news.yahoo.co.jp/articles/afc503883aaf763b9f7a114cdaf57495303ca749?source=rss",
+      "id": "0830e91408f5",
+      "title": "ドコモが「iPhone 18 Pro／18 Pro Max」の価格を発表　MNPで2年9万9990円から、2TBは一括50万円超え(ITmedia Mobile)",
+      "summary": "NTTドコモが9月11日、「iPhone 18 Pro」と「iPhone 18 Pro Max」のドコモオンラインショップにおける価格を案内した。両モデルとも9月12日21時に予約を開始し、9月18",
+      "url": "https://news.yahoo.co.jp/articles/94cbf16a898329550284717d471dd80113082c74?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-10T21:00:03+00:00",
+      "published_at": "2026-09-11T14:03:22+00:00",
+      "badges": [
+        "新着",
+        "特価",
+        "MNP限定"
+      ]
+    },
+    {
+      "id": "771f3fb2d645",
+      "title": "ドコモが「iPhone 18 Pro/Pro Max」の価格発表、実質9万9990円～(ケータイ Watch)",
+      "summary": "NTTドコモは、ドコモオンラインショップにおける「iPhone 18 Pro」「iPhone 18 Pro Max」の価格を発表した。「いつでもカエドキプログラム」などを利用して購入できる。\n\n■",
+      "url": "https://news.yahoo.co.jp/articles/c2c9ec465b39a4df42e717c0be81647bc1ee39a3?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-11T13:21:00+00:00",
       "badges": [
         "新着",
         "特価"
+      ]
+    },
+    {
+      "id": "dbedf85501f8",
+      "title": "iPhone 18 Proのベンチマーク発見。バケモンだぞコイツ…(ギズモード・ジャパン)",
+      "summary": "あくまでもベンチマーク。\n\nまず、その点にご留意ください。また、まだ発売前ですし、OSも安定していなければ、このスコアが本当なのかもわかりません。\n\nそのうえでお伝えしますと、iPhone 18 Pr",
+      "url": "https://news.yahoo.co.jp/articles/6337000cdcbeb8d7f96cf03cf36748a6b4b21f7d?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-11T13:00:02+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "3b7747f29ef4",
+      "title": "「iPhone Duo」と「Galaxy Z Fold8」のスペックを比較　薄さと機能性、約9万5000円の価格差をどう評価する？(ITmedia Mobile)",
+      "summary": "Appleは9月10日未明（日本時間）、同社初の折りたたみスマートフォン「iPhone Duo」を発表した。10月16日21時に予約を開始し、10月23日に発売する。価格は36万4800円（256G",
+      "url": "https://news.yahoo.co.jp/articles/4ec836c085935695b838c3dadd99a96d2797aae0?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-11T12:51:55+00:00",
+      "badges": [
+        "新着",
+        "特価"
+      ]
+    },
+    {
+      "id": "961b06c0c00b",
+      "title": "iPhone 18 Pro/Pro Maxの実機、触ってきたぞ。同じ見た目に、確かな革新(ギズモード・ジャパン)",
+      "summary": "Apple秋の発表会、もっとも注目度が高かったのは、やはり折りたたみのiPhone Duo。ただ、フラッグシップのiPhone 18 Pro/18 Pro Maxも負けていません。全方位的にスペックが",
+      "url": "https://news.yahoo.co.jp/articles/222767ca6671ee6bdcc835bf7f10af9a9c43d1b3?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-11T12:00:02+00:00",
+      "badges": [
+        "新着"
       ]
     }
   ]
