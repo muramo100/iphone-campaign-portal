@@ -1,85 +1,141 @@
 {
-  "generated_at": "2026-09-12T00:49:27.528569+00:00",
-  "count": 7,
+  "generated_at": "2026-09-13T00:31:16.093545+00:00",
+  "count": 12,
   "items": [
     {
-      "id": "52d293543e36",
-      "title": "【今から追いつく】5分でわかるiPhone Duo！ iPhone初めての折りたたみ機は約36万円もその価値はあり(アスキー)",
-      "summary": "iPhone初の折りたたみ機「iPhone Duo」。ネット上にはすでに多数の記事がありますが、サックリとどんなものか知りたい人も多いはず。そこで5分でわかるようにまとめました。",
-      "url": "https://news.yahoo.co.jp/articles/303f0ea2c439fecc5bc3b933f933f0571a9f3441?source=rss",
+      "id": "c82194ea62a0",
+      "title": "出そろった「iPhone 18 Pro」の価格を4キャリアで比較　ソフトバンクが衝撃の安さ、楽天モバイルが異例の施策(ITmedia Mobile)",
+      "summary": "9月18日に発売される「iPhone 18 Pro」と「iPhone 18 Pro Max」の価格が出そろった。2026年9月は例年と異なり、無印のiPhone（iPhone 18）が発表されず、P",
+      "url": "https://news.yahoo.co.jp/articles/a54f63bb24f70a6e9cd767ac3ca1d33f098d4694?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-12T00:00:00+00:00",
+      "published_at": "2026-09-12T23:51:49+00:00",
       "badges": [
         "新着"
       ]
     },
     {
-      "id": "9062d8befbd1",
-      "title": "アップルの折りたたみスマホ「iPhone Duo」、第一印象と押さえておきたいポイント(Forbes JAPAN)",
-      "summary": "数カ月にわたって臆測が飛び交い、期待と興奮が高まる中、アップルがついに同社初の折りたたみiPhoneを発表した。名称は「iPhone Duo」で、価格は1999ドル（日本での価格は36万4800円）、",
-      "url": "https://news.yahoo.co.jp/articles/aa6ec7391610c6a30e0d3043efbec24c397caa3f?source=rss",
+      "id": "bdbf053172cf",
+      "title": "「iPhone Duo」の登場で折り畳み式スマホが主流に--もう後戻りできない5つの理由(ZDNET Japan)",
+      "summary": "筆者はまだ「iPhone Duo」を実際に手にしていないが、過去4年間、米国で発売された全ての折り畳み式端末と、海外の多くの折り畳み式端末を使ってきた。これまでDuoについて耳にした情報はどれも魅力",
+      "url": "https://news.yahoo.co.jp/articles/823f8a07e698eca74e7ede20a71f6c45267339ee?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-11T23:00:00+00:00",
+      "published_at": "2026-09-12T22:00:00+00:00",
       "badges": [
-        "新着",
-        "特価"
+        "新着"
       ]
     },
     {
-      "id": "0830e91408f5",
-      "title": "ドコモが「iPhone 18 Pro／18 Pro Max」の価格を発表　MNPで2年9万9990円から、2TBは一括50万円超え(ITmedia Mobile)",
-      "summary": "NTTドコモが9月11日、「iPhone 18 Pro」と「iPhone 18 Pro Max」のドコモオンラインショップにおける価格を案内した。両モデルとも9月12日21時に予約を開始し、9月18",
-      "url": "https://news.yahoo.co.jp/articles/94cbf16a898329550284717d471dd80113082c74?source=rss",
+      "id": "ac27880fbd99",
+      "title": "「iPhone 18 Pro/Pro Max」が本日12日21時から予約開始。予約前に知りたい「Duo」との違い(BUSINESS INSIDER JAPAN)",
+      "summary": "9月10日（日本時間）に発表された新型iPhone。2026年は無印モデルの発表がなく、新たにラインナップに加わったのは、上位モデルの「iPhone 18 Pro」「iPhone 18 Pro Max",
+      "url": "https://news.yahoo.co.jp/articles/6fc904f0d283276ee5d477850aa2f95d8420b20a?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-11T14:03:22+00:00",
+      "published_at": "2026-09-12T21:00:02+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "b3348d22e0dc",
+      "title": "ソフトバンクの「iPhone 18 Pro」はMNPだと256GBが2年2万円台、512GBが2年4万円台に(ITmedia Mobile)",
+      "summary": "ソフトバンクが9月12日、「iPhone 18 Pro」と「iPhone 18 Pro Max」の価格を発表した。12日21時から予約を受け付けており、9月18日に発売する。\n\n　2機種とも「新トク",
+      "url": "https://news.yahoo.co.jp/articles/d1194c86697996fe3b32d872e77ae96a45d9215a?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-12T13:08:54+00:00",
       "badges": [
         "新着",
-        "特価",
         "MNP限定"
       ]
     },
     {
-      "id": "771f3fb2d645",
-      "title": "ドコモが「iPhone 18 Pro/Pro Max」の価格発表、実質9万9990円～(ケータイ Watch)",
-      "summary": "NTTドコモは、ドコモオンラインショップにおける「iPhone 18 Pro」「iPhone 18 Pro Max」の価格を発表した。「いつでもカエドキプログラム」などを利用して購入できる。\n\n■",
-      "url": "https://news.yahoo.co.jp/articles/c2c9ec465b39a4df42e717c0be81647bc1ee39a3?source=rss",
+      "id": "90445cb8af44",
+      "title": "折りたたみが出ても変わらず人気のiPhone 18 Pro Max、発売日分は早くも品薄傾向(アスキー)",
+      "summary": "12日21時に開始されたiPhone 18 Pro／Pro Maxの予約受付だが、今回も上位モデルのiPhone 18 Pro Maxが人気。開始から10分を経たずに、早くも一部モデルについては10",
+      "url": "https://news.yahoo.co.jp/articles/870264064b2d0d4295c0d08fbf2b3657fc1d113a?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-11T13:21:00+00:00",
-      "badges": [
-        "新着",
-        "特価"
-      ]
-    },
-    {
-      "id": "dbedf85501f8",
-      "title": "iPhone 18 Proのベンチマーク発見。バケモンだぞコイツ…(ギズモード・ジャパン)",
-      "summary": "あくまでもベンチマーク。\n\nまず、その点にご留意ください。また、まだ発売前ですし、OSも安定していなければ、このスコアが本当なのかもわかりません。\n\nそのうえでお伝えしますと、iPhone 18 Pr",
-      "url": "https://news.yahoo.co.jp/articles/6337000cdcbeb8d7f96cf03cf36748a6b4b21f7d?source=rss",
-      "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-11T13:00:02+00:00",
+      "published_at": "2026-09-12T12:25:00+00:00",
       "badges": [
         "新着"
       ]
     },
     {
-      "id": "3b7747f29ef4",
-      "title": "「iPhone Duo」と「Galaxy Z Fold8」のスペックを比較　薄さと機能性、約9万5000円の価格差をどう評価する？(ITmedia Mobile)",
-      "summary": "Appleは9月10日未明（日本時間）、同社初の折りたたみスマートフォン「iPhone Duo」を発表した。10月16日21時に予約を開始し、10月23日に発売する。価格は36万4800円（256G",
-      "url": "https://news.yahoo.co.jp/articles/4ec836c085935695b838c3dadd99a96d2797aae0?source=rss",
+      "id": "11623d8bb424",
+      "title": "auの「iPhone 18 Pro／18 Pro Max」価格発表　18 Pro（256GB）はMNPで2年6万円台に(ITmedia Mobile)",
+      "summary": "KDDIが9月12日、auで扱う「iPhone 18 Pro」と「iPhone 18 Pro Max」のau Online Shopでの価格を発表した。12日21時から予約を受け付け、9月18日に発",
+      "url": "https://news.yahoo.co.jp/articles/d0d83a9756f0c456932057f9b29d427589d1d223?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-11T12:51:55+00:00",
+      "published_at": "2026-09-12T12:15:23+00:00",
+      "badges": [
+        "新着",
+        "MNP限定"
+      ]
+    },
+    {
+      "id": "2082c06d38d4",
+      "title": "ソフトバンク「iPhone 18 Pro」価格発表、実質2.4万円/一括26.8万円～(ケータイ Watch)",
+      "summary": "ソフトバンクは、「iPhone 18 Pro」「iPhone 18 Pro Max」「Apple Watch Series 12」「Apple Watch Ultra 4」のソフトバンク取扱店におけ",
+      "url": "https://news.yahoo.co.jp/articles/859fa299178bcd1b8dcfcebc7ceb12284abe00b8?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-12T11:11:00+00:00",
       "badges": [
         "新着",
         "特価"
       ]
     },
     {
-      "id": "961b06c0c00b",
-      "title": "iPhone 18 Pro/Pro Maxの実機、触ってきたぞ。同じ見た目に、確かな革新(ギズモード・ジャパン)",
-      "summary": "Apple秋の発表会、もっとも注目度が高かったのは、やはり折りたたみのiPhone Duo。ただ、フラッグシップのiPhone 18 Pro/18 Pro Maxも負けていません。全方位的にスペックが",
-      "url": "https://news.yahoo.co.jp/articles/222767ca6671ee6bdcc835bf7f10af9a9c43d1b3?source=rss",
+      "id": "fb9c79ce9e20",
+      "title": "iPhone Duoを快適に使う鍵はApple Watchかも？(ギズモード・ジャパン)",
+      "summary": "Touch IDに不安がある方へ。\n\n先日発表されたiPhone Duoにはおなじみの顔認証「Face ID」が無く、生体認証はiPadなどで使われている指紋認証のTouch IDとなっています。",
+      "url": "https://news.yahoo.co.jp/articles/cc5b6e5c7967b251f0707e465571dda7c555af10?source=rss",
       "source": "news.yahoo.co.jp",
-      "published_at": "2026-09-11T12:00:02+00:00",
+      "published_at": "2026-09-12T10:00:02+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "32dafa646184",
+      "title": "auの「iPhone 18 Pro/Pro Max」価格発表、実質6.7万円/一括26.9万円～(ケータイ Watch)",
+      "summary": "KDDIと沖縄セルラーは、「iPhone 18 Pro」「iPhone 18 Pro Max」「Apple Watch Series 12」「Apple Watch Ultra 4」「Apple W",
+      "url": "https://news.yahoo.co.jp/articles/08a9316cabc34f397a0aed617247b39fe91c44fc?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-12T09:53:00+00:00",
+      "badges": [
+        "新着",
+        "特価"
+      ]
+    },
+    {
+      "id": "02abf6735df9",
+      "title": "楽天モバイルが「iPhone 18 Pro」の価格発表　機種変更でも2万ポイント還元、“契約不要”の紹介キャンペーンも(ITmedia Mobile)",
+      "summary": "楽天モバイルが9月12日、「iPhone 18 Pro」と「iPhone 18 Pro Max」の価格を発表した。12日21時に予約を受け付け、9月18日に発売する。\n\n　MNP、新規契約、製品のみ",
+      "url": "https://news.yahoo.co.jp/articles/208df2c575b376f47bbf5f9f4a15164b51dfe60b?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-12T09:15:47+00:00",
+      "badges": [
+        "新着",
+        "MNP限定"
+      ]
+    },
+    {
+      "id": "a5c6a48eb2ea",
+      "title": "楽天モバイルの「iPhone 18 Pro/Pro Max」価格発表、実質12.8万円/一括25.6万円～(ケータイ Watch)",
+      "summary": "楽天モバイルは、「iPhone 18 Pro Max」「iPhone 18 Pro」「Apple Watch Series 12」「Apple Watch Ultra 4」「Apple Watch S",
+      "url": "https://news.yahoo.co.jp/articles/2ac4277d8910057b61860f785e64c7a825b0cbcb?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-12T07:48:00+00:00",
+      "badges": [
+        "新着",
+        "特価"
+      ]
+    },
+    {
+      "id": "b74348f10615",
+      "title": "サムスン、折りたたみスマホの広告にティム・クック氏を起用？→Apple元CEOではなく同姓同名のそっくりさんでした(オタク総研)",
+      "summary": "サムスン電子のニュージーランド法人は、Appleが初の折りたたみ式スマートフォン「iPhone Duo」を発表した直後、「ティム・クック」を起用して自社折りたたみスマホGalaxy Z Fold8のプ",
+      "url": "https://news.yahoo.co.jp/articles/8b8d75d5b4c08cd19db0284d4e83f58e4919c8ee?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-12T03:16:00+00:00",
       "badges": [
         "新着"
       ]
