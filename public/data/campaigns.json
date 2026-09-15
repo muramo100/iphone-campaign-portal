@@ -1,5 +1,28 @@
 {
-  "generated_at": "2026-09-14T00:34:24.550573+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-09-15T01:06:37.694989+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "c78e47761b88",
+      "title": "Appleの「iPhone Duo」は、折りたたみスマホの未来を開くのか、閉じるのか(ITmedia NEWS)",
+      "summary": "折りたためるディスプレイが試作品として登場したのはずいぶん昔のことだが、現在その用途はほぼスマートフォンである。折りたたみの方向としては、横折りと縦折りがあるが、横折りは展開すると大画面になるという",
+      "url": "https://news.yahoo.co.jp/articles/bf1ade9f4a42686ab7ba968858acab6fec9dc6dc?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-14T23:20:09+00:00",
+      "badges": [
+        "新着"
+      ]
+    },
+    {
+      "id": "08c07038189a",
+      "title": "標準モデルの「iPhone 18」だけじゃない！ アップルの発表会で出なかったもの、今後出そうなもの(アスキー)",
+      "summary": "9月10日のアップルの発表会では、“折りたたみiPhone”「iPhone Duo」や「iPhone 18 Pro／Pro Max」が話題になったが、標準モデルの「iPhone 18」が登場しなかっ",
+      "url": "https://news.yahoo.co.jp/articles/3fdc84d03cd11646ce9fff53fd8b0303d9d78763?source=rss",
+      "source": "news.yahoo.co.jp",
+      "published_at": "2026-09-14T23:00:00+00:00",
+      "badges": [
+        "新着"
+      ]
+    }
+  ]
 }
